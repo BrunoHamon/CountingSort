@@ -79,4 +79,6 @@ int main() {
     printArray(array, n);
 
     tempo(start,inicio);
+
+    return 0;
 }
